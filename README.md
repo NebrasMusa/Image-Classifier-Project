@@ -1,2 +1,3 @@
-# Image Classifier Project
- Developed an image classifier using VGG16 and other CNN architectures. Implemented data augmentation, normalization, and batching. Created a command line application to train models and predict image classes, and conducted validation to measure accuracy.
+# AI Programming with Python Project
+
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
